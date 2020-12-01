@@ -12,6 +12,26 @@ body {
     monospace;
 }
 
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.ml-12 {
+  margin-left: 12px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
 .text-align-center {
   text-align: center;
 }
